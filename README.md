@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tatilimongi
-- 👀 I’m interested in back end programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in back-end programming
+- 🌱 I’m currently enrolled in System Analysis and Development
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: tatianalimongi@gmail.com
