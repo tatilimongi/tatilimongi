@@ -1,19 +1,35 @@
 <h1 align="center">Hey there,<br />
 I'm Tatiana Limongi Chaves! 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatilimongi&label=Profile%20views&color=0e75b6&style=flat" alt="tatilimongi" /> </p>
-    <p>🥜 In a nutshell:</p>
-<p><span class="emoji">👀</span> I'm <b>super into</b> the exciting world of back-end programming and data engineering.</p>
-<p><span class="emoji">🌱</span> I’m currently learning <b>Data Engineering</b>.</p>
-<p><span class="emoji">💞</span> I'm always up for collaborating on exciting projects, so if you're working on something cool, don't be shy! Let's code together and make tech magic. 🚀</p>
-<p><span class="emoji">📫</span> You can hit me up at  <b>tatianalimongi@gmail.com</b>. Feel free to drop me an email; I'm always eager to chat about tech, programming, or anything else that tickles your fancy.</p>
-<p><span class="emoji">🚀</span> I'm a tech enthusiast with a passion for coding and a knack for teaching and translating from English to Brazilian Portuguese. Originally from sunny Recife, Brazil.</p>
 
-[![Gmail](https://img.shields.io/badge/tatianalimongi@gmail.com-gray?logo=gmail&labelColor=gray)](mailto:tatianalimongi@gmail.com)
+## 🚀 Who am I?  
+
+🎯 **Mission:** Building **secure** and **well-tested** applications that scale.  
+🛠 **Toolkit:** Java, CI/CD, Testing, Security, Mobile Development.  
+💡 **Belief:** Code should be **clean, maintainable, and efficient**.  
+
+
+## 🏆 Core Strengths  
+
+📌 **Backend Engineering:** Writing robust and scalable Java applications.  
+🔎 **Software Testing:** Advocating for **quality-first development**.  
+🚀 **CI/CD & Automation:** Optimizing pipelines for **efficiency**.  
+🔐 **Secure Coding:** Building applications with **security in mind**.  
+📱 **Mobile Development:** Exploring **Android development**.  
+
+
+## 🎨 A Bit More About Me...  
+
+💬 I **love** discussing best coding practices and **mentoring others**.  
+📖 Always **learning and sharing** knowledge!  
+🌍 Multilingual: I also **translate and teach** tech content in English & Portuguese.  
+📍 From **Recife, Brazil**, but always exploring the world of tech!  
 
 ## Connect with me
 
+[![Gmail](https://img.shields.io/badge/tatianalimongi@gmail.com-gray?logo=gmail&labelColor=gray)](mailto:tatianalimongi@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?logo=linkedin&logoColor&labelColor=%230A66C2)](https://linkedin.com/in/tatiana-limongi-chaves)
-[![CodePen](https://img.shields.io/badge/CodePen-gray?logo=codepen&logoColor&labelColor=%233E8EDE)](https://codepen.io/tatilimongi)
 
 ## Skills
 
@@ -24,10 +40,12 @@ I'm Tatiana Limongi Chaves! 👋</h1>
 | **Backend Development**   | ![Node.js](https://img.shields.io/badge/Node.js-gray?logo=node.js&logoColor=green&labelColor=gray) ![SpringBoot](https://img.shields.io/badge/SpringBoot-gray?logo=springboot) |
 | **Database Management**   | ![SQL](https://img.shields.io/badge/SQL-gray) ![MySQL](https://img.shields.io/badge/MySQL-gray?logo=mysql) ![Oracle](https://img.shields.io/badge/Oracle-gray?logo=oracle) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?logo=postgresql) |
 | **Testing**               | ![Jest](https://img.shields.io/badge/Jest-gray?logo=jest&logoColor=white&labelColor=C21325) ![JUnit](https://img.shields.io/badge/JUnit-gray?logo=java&logoColor=white&labelColor=25A162) ![Pytest](https://img.shields.io/badge/Pytest-gray?logo=pytest&logoColor=white&labelColor=0A9EDC) |
-| **Dev Tools**             | ![Eclipse](https://img.shields.io/badge/Eclipse-gray?logo=eclipse) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-gray?logo=intellijidea) ![Maven](https://img.shields.io/badge/Maven-gray?logo=apachemaven) ![PyCharm](https://img.shields.io/badge/PyCharm-gray?logo=pycharm&logoColor=white&labelColor=green) ![Spring Tools](https://img.shields.io/badge/Spring_Tools-gray?logo=spring) ![VS Code](https://img.shields.io/badge/VS_Code-gray?logo=visualstudiocode) |
+| **Dev Tools**             | ![Eclipse](https://img.shields.io/badge/Eclipse-gray?logo=eclipse) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-gray?logo=intellijidea) ![Maven](https://img.shields.io/badge/Maven-gray?logo=apachemaven) ![Gradle](https://img.shields.io/badge/Gradle-gray?logo=gradle) ![PyCharm](https://img.shields.io/badge/PyCharm-gray?logo=pycharm&logoColor=white&labelColor=green) ![Spring Tools](https://img.shields.io/badge/Spring_Tools-gray?logo=spring) ![VS Code](https://img.shields.io/badge/VS_Code-gray?logo=visualstudiocode) |
 | **CI/CD & Automation**    | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-gray?logo=githubactions) |
-| **Software**              | ![Figma](https://img.shields.io/badge/Figma-gray?logo=figma) ![Postman](https://img.shields.io/badge/Postman-gray?logo=postman) |
-| **Productivity Tools**    | ![Google Drive](https://img.shields.io/badge/Google_Drive-gray?logo=googledrive) ![Google Slides](https://img.shields.io/badge/Google_Slides-gray?logo=googleslides) ![Google Docs](https://img.shields.io/badge/Google_Docs-gray?logo=googledocs) ![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-gray?logo=microsoftpowerpoint) ![MS Word](https://img.shields.io/badge/MS_Word-gray?logo=microsoftword) |
+| **Design and Modeling Tools** | ![Figma](https://img.shields.io/badge/Figma-gray?logo=figma) |
+| **Methodologies**         | ![Agile](https://img.shields.io/badge/Agile-gray) ![Scrum](https://img.shields.io/badge/Scrum-gray) ![Kanban](https://img.shields.io/badge/Kanban-gray) |
+| **Task Management**       | ![Jira](https://img.shields.io/badge/Jira-gray?logo=jira) |
+| **Productivity Tools**    | ![Google Drive](https://img.shields.io/badge/Google_Drive-gray?logo=googledrive) ![Google Slides](https://img.shields.io/badge/Google_Slides-gray?logo=googleslides) ![Google Docs](https://img.shields.io/badge/Google_Docs-gray?logo=googledocs) ![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-gray?logo=microsoftpowerpoint) ![MS Word](https://img.shields.io/badge/MS_Word-gray?logo=microsoftword) ![Jira](https://img.shields.io/badge/Jira-gray?logo=jira) |
 | **Other**                 | ![Git](https://img.shields.io/badge/Git-gray?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)                                                                      |
 
 ## Github Stats
@@ -35,10 +53,6 @@ I'm Tatiana Limongi Chaves! 👋</h1>
 ![Tatiana Limongi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tatilimongi&show_icons=true\&rank_icon=github&theme=dark#gh-dark-mode-only)
 
 ![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tatilimongi&layout=compact&theme=dark#gh-dark-mode-only)
-
-<!--## My contributions
-
-![GitHub Streak-Dark](https://streak-stats.demolab.com?user=tatilimongi&theme=dark#gh-dark-mode-only) -->
 
 ## Github Profile Trophy
 
